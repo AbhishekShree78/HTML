@@ -13,8 +13,8 @@ Author identity unknown
 to set your account's default identity.
 Omit --global to set the identity only in this repository.
 
-fatal: unable to auto-detect email address (got 'Dell@DESKTOP-KVEQ7VN.(none)')
-PS D:\FullStackJava\HTML>  git config --global user.email "abhishek.shree78@gmail.com"
+fatal: unable to auto-detect email address (got '')
+PS D:\FullStackJava\HTML>  git config --global user.email "abhishe78@gmail.com"
 PS D:\FullStackJava\HTML> git config --global user.name "AbhishekShree78"
 PS D:\FullStackJava\HTML> git commit -m "CommitMessageForIndex"
 [master (root-commit) f90c4fa] CommitMessageForIndex
